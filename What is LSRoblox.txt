@@ -1,0 +1,8 @@
+LSRoblox is a modified version of the ROBLOX Engine, it gives better framerates, works best with FPS Unlocker.
+I removed certain things that were slowing the game down aswell as delete or change textures.
+
+LSRoblox - Better Roblox
+
+-Find FPS unlocker in addons
+
+-This is a direct game modification, not a website modification.

@@ -1,0 +1,4 @@
+How To Download-
+First download the modified version of ROBLOX, LSRoblox then find the directory which the orginal roblox is in,
+Delete it or move it into a different directory. Move LSRoblox into its place, inside of the LSRoblox folder you'll find 2 folders and one file,
+find the file/Roblox Player and move it into the place where the original roblox player was. Your finished.
